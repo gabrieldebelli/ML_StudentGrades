@@ -1,2 +1,2 @@
-# Machine_Learning
-Machine Learning Projects
+# ML_StudentGrades
+Machine Learning Project on Student Grades
