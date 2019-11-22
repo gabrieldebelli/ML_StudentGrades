@@ -1,7 +1,7 @@
 # ML_StudentGrades
 Machine Learning Project on Student Grades
 
-# 1° Understand the Data Base
+## 1° Understand the Data Base
 Look at the variables correlations and the target variable (Final Grade - G3)
 
 # 2° Build a Regression Model
